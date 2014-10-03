@@ -1,4 +1,4 @@
 Tamago
 ======
 
-UML
+Création d'un projet de jeu Tamagoshi 
